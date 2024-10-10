@@ -1,6 +1,6 @@
 # Pandas-challenge
 
-This repository contains data analysis performed using Pandas and Jupyter Notebooks for Challenge 4 of Data Analytics Bootcamp at University of Toronto.
+This repository contains data analysis performed using Pandas and Jupyter Notebooks for Module 4
 
 The analysis is based on the data provided in two CSV files for schools and students for the district.
 
@@ -19,4 +19,4 @@ One more dataset is then created to illustrate the average scores and passing ra
 Lastly, another dataset is created to analyze the average scores and passing rates for different school types, i.e. Charter and District.
 
 Analysis
-The Jupyter Notebbok file contains step-by-step analysis for each dataset created. A written report is created separately in both MS Word and PDF formats to present a summary and analyze any trends and conclusions from the data.
+The Jupyter Notebbok file contains step-by-step analysis for each dataset created. A written report is created separately in  MS Word summary and analyze any trends and conclusions from the data.
